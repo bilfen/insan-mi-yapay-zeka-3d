@@ -1,0 +1,8 @@
+# Öğretmen kaynak dosyası repoya alınmaz
+*.docx
+*.xlsx
+*.pptx
+
+# Sistem dosyaları
+Thumbs.db
+.DS_Store
